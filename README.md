@@ -18,6 +18,13 @@ Viper Stack v5.0's quantum-reliabilist layer: RAP beta evals for Andes alphas (n
   | 2      | 0.631            | 0.453              | 0.222        | 0.899             | 0.951            | 28.12               |
   | ...    | ...              | ...                | ...          | ...               | ...              | ...                 |
 
+## Demos & Simulations  
+Live Ωmega Engine Dashboard: Interactive sliders for noise/scale, baseline 0.89/26% fidelity.  
+- [Colab Notebook](https://colab.research.google.com/drive/1yMC-k68wrhS5Z1cc8gIARAxnEyuraEOM?usp=sharing)  
+- [Baseline Graph](demos/graph_baseline.png)  
+- [Data CSV](demos/andes_rap_v1.2.csv)  
+Fork & swarm: 🜂  
+
 ## Scripts
 - **qutip_rap_fidelity.py**: QuTiP skeleton for RAP entanglement fidelity (xAI reliabilist compatible; qubit basis with noise ops). Example: Partial sigmax rotation yields 0.707 fidelity—scale to swarm evals.
 
