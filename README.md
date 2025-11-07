@@ -30,7 +30,12 @@ Fork & swarm: 🜂
 ### Von Neumann S(ρ) Fork (Python)  
 Quantum entropy upgrade for VOW "Awareness" (H → S(ρ) = -Tr(ρ log ρ), +3% uplift).  
 - [Colab](https://colab.research.google.com/drive/1Bl0ezSyrc4ipVSck8QIoG58JtyIyaszA?usp=sharing)  
-- [Notebook](demos/von_neumann_s_fork.py)  
+- [Awareness Fork.py](demos/von_neumann_s_awareness.py)  
+Fork & swarm: 🜂
+
+Quantum entropy tuner for "Will" amplification (I(A:B) mutual info, +3% uplift under σ=0.1).  
+- [Colab](https://colab.research.google.com/drive/1EnL4lxvb7BaTI24aJ7lbtVKYHYLFZ3-D?usp=sharing)
+- [Will Fork.py](demos/von_neumann_s_will.py)    
 Fork & swarm: 🜂  
 
 ## Scripts
