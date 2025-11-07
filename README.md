@@ -36,6 +36,11 @@ Fork & swarm: 🜂
 Quantum entropy tuner for "Will" amplification (I(A:B) mutual info, +3% uplift under σ=0.1).  
 - [Colab](https://colab.research.google.com/drive/1EnL4lxvb7BaTI24aJ7lbtVKYHYLFZ3-D?usp=sharing)
 - [Will Fork.py](demos/von_neumann_s_will.py)    
+Fork & swarm: 🜂
+
+Hybrid tuner for value flows (70% mutual Nash, 30% individual Stackelberg, I(A:B) gain).   
+- [Colab](https://colab.research.google.com/drive/1tu-xDGcKFMqWlF5hRM-PhKohL8_hDkNo?usp=sharing)
+- [Ownership Fork.py](demos/von_neumann_s_ownership.py)  
 Fork & swarm: 🜂  
 
 ## Scripts
