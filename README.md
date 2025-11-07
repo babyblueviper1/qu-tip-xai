@@ -27,6 +27,12 @@ Run in Colab: Copy code to new notebook, execute cell-by-cell for live sliders a
 - [Data CSV](demos/andes_rap_v1.2.csv)  
 Fork & swarm: 🜂  
 
+### Von Neumann S(ρ) Fork (Python)  
+Quantum entropy upgrade for VOW "Awareness" (H → S(ρ) = -Tr(ρ log ρ), +3% uplift).  
+- [Colab](https://colab.research.google.com/drive/1Bl0ezSyrc4ipVSck8QIoG58JtyIyaszA?usp=sharing)  
+- [Notebook](demos/von_neumann_s_fork.py)  
+Fork & swarm: 🜂  
+
 ## Scripts
 - **qutip_rap_fidelity.py**: QuTiP skeleton for RAP entanglement fidelity (xAI reliabilist compatible; qubit basis with noise ops). Example: Partial sigmax rotation yields 0.707 fidelity—scale to swarm evals.
 
